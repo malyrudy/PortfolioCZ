@@ -50,7 +50,7 @@ ScrollReveal().reveal('.home-content p, .oMe-content, .kontakt h3', { origin: "r
 
 // Typed js 
 const typed = new Typed(".multiple-text", {
-    strings: ["Webový vývojář"],
+    strings: ["Webový vývojář", "Edukační tvůrce"],
     typeSpeed: 100, 
     backSpeed: 100, 
     backDelay: 1000,
